@@ -3,7 +3,7 @@
 #declare the function
 sample(){
   echo welcome i am sample function
-  echo cost of A drink $a
+  echo cost of A drink=$a
 }
 
 #main programm
