@@ -10,6 +10,6 @@ sample(){
 #main program
 #call the command
 a=100
-sample
+sample ABC
 echo first agrument in main program = $1
 
