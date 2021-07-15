@@ -18,5 +18,5 @@ echo hey bro you know today is $Date
 c=(108 109)
 echo C=${c[*]}
 
-array_a=devops
+
 echo a=${array_a}
