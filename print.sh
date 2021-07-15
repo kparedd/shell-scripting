@@ -16,4 +16,4 @@ echo hey bro you know today is $Date
 #scalar property accesses by array
 
 c=(108 109)
-echo ${b[*]}
+echo C=${c[*]}
