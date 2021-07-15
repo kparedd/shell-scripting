@@ -18,4 +18,5 @@ echo hey bro you know today is $Date
 c=(108 109)
 echo C=${c[*]}
 
-vi /tmp/1.sh
+a=${array_a
+}
