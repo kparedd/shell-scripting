@@ -6,7 +6,7 @@ sample(){
   echo cost of A drink = ${a}
 }
 
-#main programm
+#main program
 #call the command
+a=100
 sample
-a=150
