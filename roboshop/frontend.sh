@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-yum intsall nginx-y
+yum install nginx-y
