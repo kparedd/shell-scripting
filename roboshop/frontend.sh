@@ -2,7 +2,7 @@
 echo "installing nginx"
 yum install nginx -y
 
-echo"enabling nginx"
+echo "enabling nginx"
 systemctl enable nginx
 
 echo "starting nginx"
