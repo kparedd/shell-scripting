@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="installinf nginx in frontend file" />
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="outputs from command should not be displayed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626477478717</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="outputs from command should not be displayed">
+      <created>1626478819897</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626478819897</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +148,7 @@
     <MESSAGE value="declare of function" />
     <MESSAGE value="demostrating the make file creation" />
     <MESSAGE value="installinf nginx in frontend file" />
-    <option name="LAST_COMMIT_MESSAGE" value="installinf nginx in frontend file" />
+    <MESSAGE value="outputs from command should not be displayed" />
+    <option name="LAST_COMMIT_MESSAGE" value="outputs from command should not be displayed" />
   </component>
 </project>

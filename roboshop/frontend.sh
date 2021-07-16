@@ -1,10 +1,12 @@
 #!/usr/bin/bash
 
+LOG=/tmp/roboshop.log
+
 echo -e "installing nginx\t\t ...\t\t\e[32mdone\e[0m"
-yum install nginx -y >/tmp/roboshop.log
+yum install nginx -y >LOG
 
 echo "enabling nginx"
-systemctl enable nginx >/tmp/roboshop.log
+systemctl enable nginx >LOG
 
 echo "starting nginx"
-systemctl start nginx >/tmp/roboshop.log
+systemctl start nginx >LOG
