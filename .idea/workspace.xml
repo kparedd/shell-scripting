@@ -73,7 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626476813861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="installinf nginx in frontend file">
+      <created>1626476890488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626476890488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="installinf nginx in frontend file">
+      <created>1626476997169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626476997169</updated>
+    </task>
+    <task id="LOCAL-00006" summary="installinf nginx in frontend file">
+      <created>1626477120975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626477120975</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
