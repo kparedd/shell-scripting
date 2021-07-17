@@ -13,8 +13,17 @@ else
 fi
 
 
-echo "enabling nginx"
+echo -n -e "enabling nginx\t\t"
 systemctl enable nginx &>>$LOG
-
-echo "starting nginx"
+if [ $? -eq 0]; then
+  echo -e "\e[32m done\e[0m"
+else
+  echo -e "\e[31m fail\e[0m"
+fi
+echo -n -e "starting nginx\t\t"
 systemctl start nginx &>>$LOG
+if [ $? -eq 0]; then
+  echo -e "\e[32m done\e[0m"
+else
+  echo -e "\e[31m fail\e[0m"
+fi
