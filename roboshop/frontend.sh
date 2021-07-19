@@ -15,10 +15,10 @@ echo -e "installing nginx\t\"
 yum install nginx -y &>>$LOG
 STAT_CHECK $?
 
-echo -n -e "enabling nginx\t\t"
+echo -n -e "enabling nginx\t\t\"
 systemctl enable nginx &>>$LOG
 STAT_CHECK $?
 
-echo -n -e "starting nginx\t\t"
+echo -n -e "starting nginx\t\t\"
 systemctl start nginx &>>$LOG
 STAT_CHECK $?
