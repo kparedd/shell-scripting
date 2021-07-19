@@ -8,6 +8,7 @@ STAT_CHECK() {
   echo -e "\e[32m done\e[0m"
 else
   echo -e "\e[31m fail\e[0m"
+  exit 1
 fi
 }
 
