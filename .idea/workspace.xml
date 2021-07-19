@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="IMPORTING THE SOURCE">
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="VERIFYING THE ROOT USER">
       <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626711908682</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="VERIFYING THE ROOT USER">
+      <created>1626712411592</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1626712411592</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +280,7 @@
     <MESSAGE value="validating  whether scripting is working or not" />
     <MESSAGE value="KEEPING THE CODE DRY" />
     <MESSAGE value="IMPORTING THE SOURCE" />
-    <option name="LAST_COMMIT_MESSAGE" value="IMPORTING THE SOURCE" />
+    <MESSAGE value="VERIFYING THE ROOT USER" />
+    <option name="LAST_COMMIT_MESSAGE" value="VERIFYING THE ROOT USER" />
   </component>
 </project>

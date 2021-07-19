@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-USER_ID=($id_u)
+USER_ID=$(id -u)
 if [ $USER_ID -ne 0 ]; then
-  echo -e you should be root user to run this script
+  echo -e You should be root user to run this script
   exit 2
 fi
 
