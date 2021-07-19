@@ -12,14 +12,18 @@ else
 fi
 }
 
-echo -n -e "installing nginx\t\t\.."
+PRINT() {
+  echo -n -e "$1\t\t\.."
+}
+
+PRINT "installing nginx"
 yum install nginx -y &>>$LOG
 STAT_CHECK $?
 
-echo -n -e "Enabling nginx\t\t\.."
+PRINT "Enabling nginx"
 systemctl enable nginx &>>$LOG
 STAT_CHECK $?
 
-echo -n -e "Starting nginx\t\t\.."
+PRINT  "Starting nginx"
 systemctl start nginx &>>$LOG
 STAT_CHECK $?
