@@ -1,5 +1,10 @@
 #!/usr/bin/bash
 
+USER_ID=($id_u)
+if [ $USER_ID -ne 0 ]; then
+  echo -e you should be root user to run this script
+  exit 2
+fi
 
 STAT_CHECK() {
   if [ $1 -eq 0 ]; then
