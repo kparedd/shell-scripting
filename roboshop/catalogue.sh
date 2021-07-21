@@ -25,6 +25,9 @@ PRINT "Install NodeJS Dependencies"
 cd /home/roboshop/catalogue && npm install --unsafe-perm &>>$LOG
 STAT_CHECK $?
 
+PRINT "Fix application user"
+chown roboshop:roboshop /home/roboshop -R &>>$LOG
+STAT_CHECK $?
 
 # mv /home/roboshop/catalogue/systemd.service /etc/systemd/system/catalogue.service
 # systemctl daemon-reload
