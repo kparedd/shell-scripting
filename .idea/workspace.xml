@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="catalogue" />
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="catalogue">
+      <change beforePath="$PROJECT_DIR$/roboshop/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/catalogue.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +41,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00002" summary="demostrating the make file creation">
-      <created>1626476249398</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1626476249398</updated>
     </task>
     <task id="LOCAL-00003" summary="installinf nginx in frontend file">
       <created>1626476813861</created>
@@ -383,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626889171405</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="catalogue">
+      <created>1626895481195</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1626895481196</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
