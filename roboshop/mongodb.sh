@@ -17,6 +17,7 @@ STAT_CHECK $?
 
 PRINT "UPDATE Mongod IP address"
 sed -i -e 's/127.0.0.1/0.0.0.0/' /etc/mongod.conf
+STAT_CHECK $?
 
 PRINT "Start MongoDB service"
 systemctl enable mongod &>>$LOG && systemctl start mongod &>>$LOG
