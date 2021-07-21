@@ -3,7 +3,7 @@
 source common.sh
 
 PRINT "Install Nodejs"
-yum install nodejs make gcc-c++ -y
+yum install nodejs make gcc-c++ -y &>>$LOG
 STAT_CHECK $?
 
 PRINT "Add RoboShop Application user"
