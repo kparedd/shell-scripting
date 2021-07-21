@@ -2,7 +2,7 @@
 
 source common.sh
 
-PRINT "Install Nodejs\t"
+PRINT "Install Nodejs\t\t"
 yum install nodejs make gcc-c++ -y &>>$LOG
 STAT_CHECK $?
 
@@ -18,11 +18,12 @@ curl -s -L -o /tmp/catalogue.zip "https://github.com/roboshop-devops-project/cat
 STAT_CHECK $?
 
 PRINT " Extract Downloaded Code"
-cd /home/roboshop && unzip /tmp/catalogue.zip && rm -rf catalogue && mv catalogue-main catalogue &>>$LOG
+cd /home/roboshop && unzip /tmp/catalogue.zip &>>$LOG && rm -rf catalogue && mv catalogue-main catalogue &>>$LOG
 STAT_CHECK $?
 
 PRINT "Install NodeJS Dependencies"
 cd /home/roboshop/catalogue && npm install --unsafe-perm &>>$LOG
+STAT_CHECK $?
 
 
 # mv /home/roboshop/catalogue/systemd.service /etc/systemd/system/catalogue.service
