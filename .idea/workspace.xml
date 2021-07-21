@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="catalogue.sh automation">
-      <change beforePath="$PROJECT_DIR$/roboshop/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/catalogue.sh" afterDir="false" />
-    </list>
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="catalogue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +39,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00001" summary="declare of function">
-      <created>1626475214160</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1626475214160</updated>
     </task>
     <task id="LOCAL-00002" summary="demostrating the make file creation">
       <created>1626476249398</created>
@@ -385,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626889120481</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="catalogue">
+      <created>1626889171405</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1626889171405</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,6 +411,7 @@
     <MESSAGE value="frontend automation" />
     <MESSAGE value="MONGODB automation" />
     <MESSAGE value="catalogue.sh automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="catalogue.sh automation" />
+    <MESSAGE value="catalogue" />
+    <option name="LAST_COMMIT_MESSAGE" value="catalogue" />
   </component>
 </project>
