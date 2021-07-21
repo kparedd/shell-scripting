@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="catalogue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/catalogue.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +42,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00006" summary="installinf nginx in frontend file">
-      <created>1626477120975</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1626477120975</updated>
-    </task>
-    <task id="LOCAL-00007" summary="installinf nginx in frontend file">
-      <created>1626477224126</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1626477224126</updated>
     </task>
     <task id="LOCAL-00008" summary="installinf nginx in frontend file">
       <created>1626477250472</created>
@@ -385,7 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626897185129</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="catalogue">
+      <created>1626897455445</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1626897455446</updated>
+    </task>
+    <task id="LOCAL-00056" summary="catalogue">
+      <created>1626897512020</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1626897512020</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
