@@ -9,7 +9,7 @@ yum install redis -y --enablerepo &>>$LOG
 STAT_CHECK $?
 
 PRINT "Update Redis"
-echo -i -e '/s/127.0.0.1/0.0.0.0' /etc/redis.conf &>>$LOG
+echo -i -e '/s/127.0.0.1/0.0.0.0' /etc/redis.conf /etc/redis/redis.conf &>>$LOG
 STAT_CHECK $?
 
 PRINT "Start Redis service"
