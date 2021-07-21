@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="VERIFYING THE ROOT USER">
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/cart.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/catalogue.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/frontend.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/mongodb.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/mysql.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/payment.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/rabbitmq.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/redis.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/shipping.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboshop/user.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/frontend.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/mongodb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/mongodb.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626713056781</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="VERIFYING THE ROOT USER">
+      <created>1626713180866</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1626713180866</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
