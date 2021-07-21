@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="MONGODB automation">
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="catalogue.sh automation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/catalogue.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1vPsehTdj3QSLtg5PQxlBIFgvai" />
   <component name="ProjectViewState">
@@ -355,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626886110754</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="catalogue.sh automation">
+      <created>1626887229103</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1626887229103</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,6 +393,7 @@
     <MESSAGE value="VERIFYING THE ROOT USER" />
     <MESSAGE value="frontend automation" />
     <MESSAGE value="MONGODB automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="MONGODB automation" />
+    <MESSAGE value="catalogue.sh automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="catalogue.sh automation" />
   </component>
 </project>
