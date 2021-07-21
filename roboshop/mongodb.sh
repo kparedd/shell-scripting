@@ -27,6 +27,6 @@ PRINT "Download MongoDB Schema\t"
 curl -s -L -o /tmp/mongodb.zip "https://github.com/roboshop-devops-project/mongodb/archive/main.zip" &>>$LOG
 STAT_CHECK $?
 
-PRINT "Load schema\t"
+PRINT "Load schema\t\t"
 cd /tmp && unzip -o mongodb.zip &>>$LOG && cd mongodb-main && mongo < catalogue.js &>>$LOG && mongo < users.js &>>$LOG
 STAT_CHECK $?
