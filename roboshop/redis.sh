@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+source common.sh
+
 PRINT " Install redis repos"
 yum install epel-release yum-utilshttp://rpms.remirepo.net/enterprise/remi-release-7.rpm -y &>>$LOG
 STAT_CHECK $?
