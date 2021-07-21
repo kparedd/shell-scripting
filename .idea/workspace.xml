@@ -42,13 +42,6 @@
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
     </task>
-    <task id="LOCAL-00010" summary="installinf nginx in frontend file">
-      <created>1626477478717</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1626477478717</updated>
-    </task>
     <task id="LOCAL-00011" summary="outputs from command should not be displayed">
       <created>1626478819897</created>
       <option name="number" value="00011" />
@@ -385,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626901465691</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="catalogue">
+      <created>1626902014451</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1626902014451</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
