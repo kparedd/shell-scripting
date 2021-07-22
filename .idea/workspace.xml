@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="user">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
-    </list>
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="user" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,20 +36,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00030" summary="IMPORTING THE SOURCE">
-      <created>1626711908682</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1626711908682</updated>
-    </task>
-    <task id="LOCAL-00031" summary="VERIFYING THE ROOT USER">
-      <created>1626712411592</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1626712411592</updated>
     </task>
     <task id="LOCAL-00032" summary="VERIFYING THE ROOT USER">
       <created>1626713056781</created>
@@ -383,7 +366,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626915154031</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="user">
+      <created>1626915759204</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1626915759204</updated>
+    </task>
+    <task id="LOCAL-00080" summary="user">
+      <created>1626915858850</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1626915858850</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

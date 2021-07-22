@@ -37,11 +37,11 @@ NODEJS {
   STAT_CHECK $?
 
   PRINT "Download Application Code"
-  curl -s -L -o /tmp/${COMPONENT}.zip "https://github.com/roboshop-devops-project/catalogue/archive/main.zip" &>>$LOG
+  curl -s -L -o /tmp/${COMPONENT}.zip "https://github.com/roboshop-devops-project/${COMPONENT}/archive/main.zip" &>>$LOG
   STAT_CHECK $?
 
   PRINT " Extract Downloaded Code"
-  cd /home/roboshop && unzip /tmp/${COMPONENT}.zip &>>$LOG && rm -rf catalogue && mv catalogue-main catalogue &>>$LOG
+  cd /home/roboshop && unzip /tmp/${COMPONENT}.zip &>>$LOG && rm -rf ${COMPONENT} && mv ${COMPONENT}-main ${COMPONENT} &>>$LOG
   STAT_CHECK $?
 
   PRINT "Install NodeJS Dependencies"
