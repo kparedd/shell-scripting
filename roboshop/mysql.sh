@@ -11,7 +11,7 @@ gpgcheck=0' > /etc/yum.repos.d/mysql.repo
 STAT_CHECK $?
 
 PRINT "Install MySQL"
-yum install mysql-community-server -y &>>$LOGe
+yum install mysql-community-server -y &>>$LOG
 STAT_CHECK $?
 
 PRINT "Start MySQL"
