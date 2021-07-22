@@ -24,7 +24,7 @@ PRINT() {
   echo -n -e "$1\t\t.."
 }
 
-NODEJS {
+NODEJS() {
   PRINT "Install Nodejs\t\t"
   yum install nodejs make gcc-c++ -y &>>$LOG
   STAT_CHECK $?
@@ -41,7 +41,7 @@ NODEJS {
   STAT_CHECK $?
 
   PRINT " Extract Downloaded Code"
-  cd /home/roboshop && unzip -o /tmp/"${COMPONENT}".zip &>>$LOG && rm -rf "${COMPONENT}" && mv "${COMPONENT}"-main "${COMPONENT}"
+  cd /home/roboshop && unzip -o /tmp/${COMPONENT}.zip &>>$LOG && rm -rf ${COMPONENT} && mv ${COMPONENT}-main ${COMPONENT}
   STAT_CHECK $?
 
   PRINT "Install NodeJS Dependencies"
