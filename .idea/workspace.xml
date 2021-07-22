@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="USER">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/catalogue.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,9 +21,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1vPsehTdj3QSLtg5PQxlBIFgvai" />
   <component name="ProjectViewState">
@@ -41,13 +40,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00026" summary="validating  whether scripting is working or not">
-      <created>1626709858646</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1626709858646</updated>
     </task>
     <task id="LOCAL-00027" summary="validating  whether scripting is working or not">
       <created>1626709976551</created>
@@ -385,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626913862956</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="USER">
+      <created>1626914090167</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1626914090167</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
