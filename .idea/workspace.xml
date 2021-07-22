@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="frontend">
-      <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
-    </list>
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="cart" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,20 +36,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00047" summary="catalogue.sh automation">
-      <created>1626888839931</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1626888839931</updated>
-    </task>
-    <task id="LOCAL-00048" summary="catalogue.sh automation">
-      <created>1626889060860</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1626889060860</updated>
     </task>
     <task id="LOCAL-00049" summary="catalogue.sh automation">
       <created>1626889120481</created>
@@ -382,7 +366,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626995521973</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="cart">
+      <created>1626995857937</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1626995857937</updated>
+    </task>
+    <task id="LOCAL-00097" summary="cart">
+      <created>1626995960618</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1626995960618</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,6 +415,7 @@
     <MESSAGE value="user" />
     <MESSAGE value="CART" />
     <MESSAGE value="frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="frontend" />
+    <MESSAGE value="cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="cart" />
   </component>
 </project>
