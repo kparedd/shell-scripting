@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="redis">
-      <change beforePath="$PROJECT_DIR$/roboshop/redis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/redis.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/user.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/user.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00019" summary="exit commands">
-      <created>1626483499977</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1626483499977</updated>
-    </task>
-    <task id="LOCAL-00020" summary="exit commands">
-      <created>1626483696253</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1626483696253</updated>
     </task>
     <task id="LOCAL-00021" summary="validating  whether scripting is working or not">
       <created>1626483925056</created>
@@ -385,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626910039875</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="redis">
+      <created>1626910356974</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1626910356974</updated>
+    </task>
+    <task id="LOCAL-00069" summary="redis">
+      <created>1626910474510</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1626910474510</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
