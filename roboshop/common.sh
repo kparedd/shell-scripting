@@ -41,7 +41,7 @@ NODEJS {
   STAT_CHECK $?
 
   PRINT " Extract Downloaded Code"
-  cd /home/roboshop && unzip /tmp/${COMPONENT}.zip &>>$LOG && rm -rf ${COMPONENT} && mv ${COMPONENT}-main ${COMPONENT} &>>$LOG
+  cd /home/roboshop && unzip -O /tmp/${COMPONENT}.zip &>>$LOG && rm -rf ${COMPONENT} && mv ${COMPONENT}-main ${COMPONENT}
   STAT_CHECK $?
 
   PRINT "Install NodeJS Dependencies"
