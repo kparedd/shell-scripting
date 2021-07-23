@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="MYSQL">
+    <list default="true" id="762ffffe-830a-4087-a6b1-a68c02a4003b" name="Default Changelist" comment="cart">
       <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,27 +38,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626475155178</updated>
-    </task>
-    <task id="LOCAL-00053" summary="catalogue">
-      <created>1626897055442</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1626897055442</updated>
-    </task>
-    <task id="LOCAL-00054" summary="catalogue">
-      <created>1626897185129</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1626897185129</updated>
-    </task>
-    <task id="LOCAL-00055" summary="catalogue">
-      <created>1626897455445</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1626897455446</updated>
     </task>
     <task id="LOCAL-00056" summary="catalogue">
       <created>1626897512020</created>
@@ -382,7 +361,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626997799822</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="cart">
+      <created>1626998785187</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1626998785187</updated>
+    </task>
+    <task id="LOCAL-00103" summary="cart">
+      <created>1626998836818</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1626998836818</updated>
+    </task>
+    <task id="LOCAL-00104" summary="cart">
+      <created>1626998915594</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1626998915594</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,8 +417,8 @@
     <MESSAGE value="user" />
     <MESSAGE value="CART" />
     <MESSAGE value="frontend" />
-    <MESSAGE value="cart" />
     <MESSAGE value="MYSQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="MYSQL" />
+    <MESSAGE value="cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="cart" />
   </component>
 </project>

@@ -57,7 +57,7 @@ NODEJS() {
   sed -i -e "s/MONGO_DNSNAME/mongodb.roboshop.internal/" -e "s/REDIS_ENDPOINT/redis.roboshop.internal/" -e "s/MONGO_ENDPOINT/mongodb.roboshop.internal/" -e "/CATALOGUE_ENDPOINT/catalogue.roboshop.internal/" /home/roboshop/${COMPONENT}/systemd.service && mv /home/roboshop/${COMPONENT}/systemd.service /etc/systemd/system/${COMPONENT}.service &>>$LOG
   STAT_CHECK $?
 
-  PRINT "Start ${COMPONENT} Service\t"
+  PRINT " Start ${COMPONENT} Service\t"
   systemctl daemon-reload &>>$LOG && systemctl start ${COMPONENT} &>>$LOG  && systemctl enable ${COMPONENT} &>>$LOG
   STAT_CHECK $?
 }
