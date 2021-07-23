@@ -58,6 +58,6 @@ NODEJS() {
   STAT_CHECK $?
 
   PRINT " Start ${COMPONENT} Service\t"
-  systemctl daemon-reload &>>$LOG && systemctl start ${COMPONENT} &>>$LOG  && systemctl enable ${COMPONENT} &>>$LOG
+  systemctl daemon-reload &>>$LOG && systemctl start ${COMPONENT} &>>$LOG && systemctl enable ${COMPONENT} &>>$LOG
   STAT_CHECK $?
 }
